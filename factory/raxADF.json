@@ -1,0 +1,9 @@
+{
+	"name": "raxADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2e906cf-af64-4714-b5b7-040f06c14e02",
+		"tenantId": "21fa0944-233c-4206-b59b-2cca1675acbc"
+	}
+}
